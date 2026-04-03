@@ -1,0 +1,2 @@
+# project_demo2
+基于FreeRTOS的智能CAN通信与多维交互系统
